@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
 
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: ' My first app '),
     );
   }
 }
